@@ -1,3 +1,10 @@
+A litte react to do app to practice.
+1st time connecting to netlify.
+made some css changes.
+
+
+inspired by Brian Design
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
